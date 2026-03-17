@@ -3,3 +3,4 @@ Add a new comment
 add a third line 
 add more line
 line number 5
+add line number 6
