@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello everyone
+=======
+Hallo leute
+>>>>>>> master
 Add a new comment
 add a third line 
 add more line
