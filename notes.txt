@@ -6,3 +6,4 @@ line number 5
 add line number 6
 line number 7
 this was added in feature1
+line 9
